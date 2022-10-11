@@ -391,7 +391,7 @@ footer .logo{
     }
     .toggle{
         position: absolute;
-        width: 30px;
+        width: 70px;
         height: 100%;
         z-index: 3;
         cursor: pointer;
